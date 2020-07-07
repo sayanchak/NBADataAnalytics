@@ -1,0 +1,13 @@
+name: NBADataAnalytics
+title: NBADataAnalytics
+username:
+account: sayan-chakraborti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2543515
+bundleId: 3360726
+url: https://sayan-chakraborti.shinyapps.io/NBADataAnalytics/
+when: 1594094274.71369
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: teamdata.R
